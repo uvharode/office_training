@@ -1,0 +1,44 @@
+<!-- <?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="./product.xsl"?>
+<PRODUCTDATA>
+
+<PRODUCT PRODID="P001" category="toy">
+<PRODUCTNAME> MINI BUS </PRODUCTNAME>
+<DESCRIPTION> Toy for boys </DESCRIPTION>
+<PRICE>75</PRICE>
+<QUANTITY>50</QUANTITY>
+</PRODUCT>
+
+<PRODUCT PRODID="P002" category="toy">
+<PRODUCTNAME> BARBIE</PRODUCTNAME>
+<DESCRIPTION> Toy for girls </DESCRIPTION>
+<PRICE>45</PRICE>
+<QUANTITY>20</QUANTITY>
+</PRODUCT>
+
+</PRODUCTDATA> -->
+<html>
+   <body>
+      <h2>Product Details</h2>
+      <table border="1">
+         <tr bgcolor="#9acd43">
+            <th>product Name</th>
+            <th>Discription</th>
+            <th>Price</th>
+            <th>Quantity</th>
+         </tr>
+         <tr>
+            <td> Toy for girls </td>
+            <td> BARBIE</td>
+            <td>45</td>
+            <td>20</td>
+         </tr>
+         <tr>
+            <td> Toy for boys </td>
+            <td> MINI BUS </td>
+            <td>75</td>
+            <td>50</td>
+         </tr>
+      </table>
+   </body>
+</html>
